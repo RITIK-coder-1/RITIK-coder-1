@@ -3,5 +3,5 @@
 - 🌱 I'm in my first Sem currently, pursuing Computers and Programming. 
 - 🌱 I’m currently learning JavaScript and aiming to master the Full Stack!
 - 📫 You can reach me:
-   - https://linktr.ee/RITIK__
+   - https://linktr.ee/RITIK_MAHAPATRA
 
