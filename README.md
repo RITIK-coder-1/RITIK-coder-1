@@ -12,7 +12,7 @@
 - 🚀 I’m a Frontend Developer and mastering the Full Stack!
 - 📫 You can reach me:
    - https://linktr.ee/RITIK_MAHAPATRA
-- GitHub: <i class="fab fa-github"></i>
+- GitHub: <i class="fab fa-github">https://github.com/RITIK-coder-1/RITIK-coder-1</i>
 - LinkedIn: <i class="fab fa-linkedin"></i>
 - Twitter: <i class="fab fa-twitter"></i>
 
