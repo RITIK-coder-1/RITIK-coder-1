@@ -4,4 +4,4 @@
 - 🌱 I’m currently diving deep into JavaScript and aiming to master the Full Stack!
 - 📫 You can reach me:
    - https://linktr.ee/RITIK_MAHAPATRA
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
