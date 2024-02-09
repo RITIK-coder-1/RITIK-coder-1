@@ -9,8 +9,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 - 🌱 I'm in my first Sem currently, pursuing Computers and Programming. 
-- 🌱 I’m a Frontend Developer and mastering the Full Stack!
+- 🚀 I’m a Frontend Developer and mastering the Full Stack!
 - 📫 You can reach me:
    - https://linktr.ee/RITIK_MAHAPATRA
+- GitHub: <i class="fab fa-github"></i>
+- LinkedIn: <i class="fab fa-linkedin"></i>
+- Twitter: <i class="fab fa-twitter"></i>
 
-[![Your GitHub Activity Box](https://activity-box.herokuapp.com/RITIK-coder-1)](https://github.com/JasonEtco/activity-box)
