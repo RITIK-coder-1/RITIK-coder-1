@@ -13,5 +13,4 @@
 - 📫 You can reach me:
    - https://linktr.ee/RITIK_MAHAPATRA
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RITIK-coder-1
-&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=RITIK-coder-1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
