@@ -10,10 +10,9 @@
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 - 🌱 I'm in my first Sem currently, pursuing Computers and Programming. 
 - 🚀 I’m a Frontend Developer and mastering the Full Stack!
-- 
 ### Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RITIK-coder-1)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritik-mahapatra)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@_R_T_K_)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/@_R_T_K__)
 [![Hashnode](https://img.shields.io/badge/Hashnode-%23FFA500?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@Ritik111)
