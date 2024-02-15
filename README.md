@@ -9,7 +9,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 
-- 🌱 I'm in my first Sem currently, pursuing Computers and Programming. 
+- 🌱 I'm in my second Sem of Bachelors, pursuing Computers and Programming. 
 - 🚀 I’m a Frontend Developer and mastering the Full Stack!
 ### Connect with Me
 
