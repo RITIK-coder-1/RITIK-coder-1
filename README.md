@@ -1,7 +1,7 @@
 - 👋 Hi, I’m RITIK!
 - 👀 I’m interested in Web Development and that's what I'm learning!! My current skillset: [HTML5, CSS3, TailwindCSS, JavaScript].
 
-<div>
+<div style="display: flex; align-items: centre;">
     <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" width="80" height="40">
     <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" width="80" height="40">
     <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" width="80" height="40">
