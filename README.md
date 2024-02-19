@@ -12,6 +12,7 @@
   </div>
 - 🌱 I'm in my second Sem of Bachelors, pursuing Computers and Programming. 
 - 🚀 I’m a Frontend Developer and mastering the Full Stack!
+
 ### Connect with Me
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RITIK-coder-1)
