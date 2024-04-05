@@ -8,6 +8,7 @@
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue?logo=mysql&style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-Query-green?logo=sql&style=flat-square)
+[![SQL](https://img.shields.io/badge/SQL-Query-blue?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAZUlEQVR42mJ0jRHCQBDd/B+kGo2Xn+KClmtp5h5z8DrN+GlrDYwGPHkiMBH2PPUKAKQpEXwQLRrY7CTIzCjAZU0yM2KJCTAxziYgkzZJgFJCbNlcBAzJX5xPAAAAAElFTkSuQmCC)](https://www.sql.org/)
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
