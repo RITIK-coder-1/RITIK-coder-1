@@ -7,6 +7,8 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
   [![SQL](https://img.shields.io/badge/SQL-Query-blue?style=flat&logo=https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png)](https://www.sql.org/)
+  [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-256.png&logoColor=white)](https://www.mysql.com/)
+
   ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
