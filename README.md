@@ -1,5 +1,5 @@
 - 👋 Hi, I’m RITIK!
-- 👀 I’m interested in Web Development and that's what I'm learning!! My current skillset: 
+- 🚀 I’m a Frontend Developer and mastering the Full Stack currently! My current skillset: 
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -16,8 +16,6 @@
 
 
 - 🌱 I'm In My Third Semester (2nd Year) of Bachelors, pursuing Computers and Programming. 
-
-- 🚀 I’m a Frontend Developer and mastering the Full Stack currently!
 
 ### Connect with Me
 
