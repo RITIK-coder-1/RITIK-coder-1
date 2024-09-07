@@ -1,6 +1,7 @@
 - 👋 Hi, I’m RITIK!
 - I’m a Frontend Developer and currently, I'm mastering the Full Stack! 🚀
-- My current skillset: 
+- My current skillset:
+  -- Frontend:
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
