@@ -1,5 +1,5 @@
 - 👋 Hi, I’m RITIK!
-- I’m a Frontend Developer and currently, I'm mastering the Full Stack! 🚀
+- I’m a Frontend Developer and currently, I'm mastering the Full Stack! 🚀🚀
 - My current skillset:
   
   - Frontend Development:
