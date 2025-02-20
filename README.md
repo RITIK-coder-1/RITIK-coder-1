@@ -21,7 +21,7 @@
     ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 
-- 🌱 I'm In My Third Semester (2nd Year) of Bachelors, pursuing Computers and Programming. 
+- 🌱 I'm In My Fourth Semester (2nd Year) of Bachelors, pursuing Computers and Programming. 
 
 ### Connect with Me
 
