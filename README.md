@@ -1,5 +1,5 @@
 - 👋 Hi, I’m RITIK!
-- I’m a FullStack Developer, currenlty mastering React! 🚀
+- I’m a FullStack Developer building end to end full stack web applications! 🚀
 - My current skillset:
   
   - Programming Languages:
@@ -27,9 +27,6 @@
     ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
     ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
     ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-
-- 🌱 I'm In My Fourth Semester (2nd Year) of Bachelors, pursuing Computers and Programming. 
 
 ### Connect with Me
 
