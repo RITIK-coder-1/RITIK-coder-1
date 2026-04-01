@@ -18,8 +18,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![React Router](https://img.shields.io/badge/-React%20Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![shadcn/ui](https://shields.io)
-![RTK Query](https://shields.io)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![RTK Query](https://img.shields.io/badge/-RTK%20Query-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 ---
 
@@ -29,7 +29,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Nodemailer](https://shields.io)
+![Nodemailer](https://img.shields.io/badge/-Nodemailer-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
