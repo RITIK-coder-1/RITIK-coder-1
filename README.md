@@ -28,7 +28,6 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/-Mongoose-800000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Nodemailer](https://img.shields.io/badge/-Nodemailer-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
@@ -46,6 +45,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/-Nodemailer-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)
 
 ---
 
