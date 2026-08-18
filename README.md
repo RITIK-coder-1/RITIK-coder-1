@@ -47,6 +47,7 @@
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 ![Nodemailer](https://img.shields.io/badge/-Nodemailer-0A66C2?style=for-the-badge&logo=gmail&logoColor=white)
+![Framer](https://img.shields.io/badge/-Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ---
 
